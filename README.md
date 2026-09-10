@@ -26,10 +26,6 @@ Power BI Desktop, Power Query, DAX, CSV, Data Visualization.
 ```text
 Sales_Performance_PowerBI/
 ├── Sales_Data.csv
-├── DAX_Measures.txt
-├── Power_Query_Steps.txt
-├── Dashboard_Layout.txt
-├── Resume_Project_Description.txt
 ├── README.md
 └── Sales_Performance_Dashboard.pbix
 ```
